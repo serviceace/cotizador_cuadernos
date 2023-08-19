@@ -23,3 +23,7 @@ body {
   border-radius: 15px;
   max-width: 50%;
 }
+
+button {
+  width: 100px;
+}
